@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<level1 attr1="value1" attr2="value2">
+		<level2 attr3="value3">
+			<level3 attr4="value4" attr5="value5">Content</level3>
+		</level2>
+	</level1>
+</root>
